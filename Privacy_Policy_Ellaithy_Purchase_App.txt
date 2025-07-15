@@ -1,65 +1,75 @@
-Privacy Policy
-Last Updated: July 15, 2025
+Full Privacy Policy – Internal Purchasing App (For Google Play)
 
-Welcome to Ellaithy Purchase App. Your privacy is important to us. This Privacy Policy outlines how we collect, use, and safeguard your information when you use our services, particularly related to car purchases and sales.
+Privacy Policy – ElLaithy Internal Purchasing App
+
+At ElLaithy Auto Group, we are committed to protecting the privacy and confidentiality of all internal users who access our purchasing application. This policy outlines how we handle your data securely and responsibly.
+
+⸻
 
 1. Information We Collect
 
-Information You Provide:
-- Your name, phone number, email address
-- Uploaded documents (e.g., car registration, ID, purchase forms)
-- Car listings, inquiries, and messages
+When you use the Internal Purchasing App, we may collect:
+	•	User Data: Name, email, employee ID, department, role/position.
+	•	Operational Data: Purchase requests, approvals, item selections, timestamps, order history.
+	•	Device Information: IP address, app usage behavior, crash logs, and system diagnostics.
 
-Usage Data:
-- Pages you visit within the app
-- Search filters or preferences (e.g., car brand, price range)
-- Listings you interact with or save
+⸻
 
-Technical Data:
-- Device type, operating system, and app version
-- IP address and connection info
+2. Why We Collect This Data
 
-2. How We Use Your Information
+We collect this data to:
+	•	Facilitate smooth internal procurement processes
+	•	Track orders and approvals
+	•	Prevent unauthorized purchases or misuse
+	•	Generate analytics for purchasing performance
+	•	Ensure compliance with internal purchasing policies
 
-We use your information to:
-- Facilitate buying, selling, or browsing cars
-- Match users with relevant listings and offers
-- Send alerts, updates, or promotional messages (only with your consent)
-- Improve our platform through analytics and feedback
+⸻
 
-3. Sharing Your Information
+3. Data Protection & Security
 
-We do not sell or rent your data. We may share your information with:
-- Trusted service providers (e.g., cloud hosting, payment processors)
-- Legal authorities, if required by applicable law or regulation
+We apply multiple security measures, including:
+	•	Encrypted communication (SSL)
+	•	Access controls based on user role (e.g., requester, approver, finance)
+	•	Secure cloud-based data storage
+	•	Regular system audits and access logging
 
-4. Data Security
+We do not share or sell your data with external parties unless required by law or internal audit.
 
-We implement both technical safeguards (like encryption) and administrative measures to protect your data from unauthorized access or misuse.
+⸻
 
-5. Your Rights
+4. User Rights
 
-You have the right to:
-- Access and review your personal information
-- Request corrections or deletions
-- Deactivate or delete your account at any time
+As an internal user, you have the right to:
+	•	Access your activity and request history
+	•	Request corrections if any data is inaccurate
+	•	Raise concerns about data usage to the ElLaithy compliance team
 
-To do so, please contact us using the information below.
+All requests should be submitted to the IT or Admin department.
 
-6. Cookies and Tracking
+⸻
 
-We may use cookies or similar technologies to:
-- Remember user preferences
-- Track app usage and improve performance
-- Deliver relevant content or ads
+5. Data Retention
 
-You can manage cookie preferences in your browser or device settings.
+We retain your data for as long as needed to fulfill internal audit, financial, and operational obligations. Once the retention period ends, data is securely archived or deleted based on internal policy.
 
-7. Changes to This Policy
+⸻
 
-We may update this Privacy Policy from time to time. If there are significant changes, we’ll notify you through the app or email.
+6. Use of Third-Party Services
 
-Contact Us
+The app may rely on secure third-party cloud or backend services. These providers are selected based on their security certifications and do not access personal user content.
 
-For questions, concerns, or data requests, contact:
-Email: ellaithywhatsapp@gmail.com
+⸻
+
+7. Policy Updates
+
+This Privacy Policy may be revised to reflect improvements, regulations, or system updates. Any changes will be shared internally via email or app notifications.
+
+⸻
+
+8. Contact & Support
+
+For any data-related concerns or technical issues, please contact:
+📧 email: ellaithywhatsapp@gmail.com
+
+Effective as of:15/7/2025
